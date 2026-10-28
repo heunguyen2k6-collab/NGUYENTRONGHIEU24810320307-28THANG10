@@ -28,7 +28,7 @@
 
 \* \*\*Giao diện Đăng nhập (Bài 1):\*\*
 
-!\[Giao diện Đăng nhập](./images/bai1\_giaodien.png)
+![Giao diện Đăng nhập](./images/bai1\_giaodien.png)
 
 
 
@@ -42,25 +42,25 @@
 
 \* \*\*Bài 1 - Thực thi Đăng nhập thành công:\*\*
 
-!\[Thực thi Đăng nhập thành công](./images/bai1\_thucthi.png)
+![Thực thi Đăng nhập thành công](./images/bai1\_thucthi.png)
 
 
 
 \* \*\*Bài 1 - Kiểm tra Dữ liệu tài khoản người dùng (`Users`):\*\*
 
-!\[Dữ liệu bảng Users](./images/bai1\_csdl.png)
+![Dữ liệu bảng Users](./images/bai1\_csdl.png)
 
 
 
 \* \*\*Bài 2 - Thực thi Đăng ký Học viên mới:\*\*
 
-!\[Thực thi Đăng ký Học viên](./images/bai2\_thucthi.png)
+![Thực thi Đăng ký Học viên](./images/bai2\_thucthi.png)
 
 
 
 \* \*\*Bài 2 - Kiểm tra Dữ liệu lưu trong CSDL (`Students`):\*\*
 
-!\[Dữ liệu bảng Students](./images/bai2\_csdl.png)
+![Dữ liệu bảng Students](./images/bai2\_csdl.png)
 
 
 
